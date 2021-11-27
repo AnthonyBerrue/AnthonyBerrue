@@ -2,7 +2,7 @@
 GIF SECTION
 ur welcome ;) 
 -->
-<a href="https://tenor.com/search/welcome-to-my-profile-gifs">(./assets/welcome-to-my-profile-gif)</a>
+<a href="https://tenor.com/search/welcome-to-my-profile-gifs"><img align="center" alt="GIF" src="./assets/welcome-to-my-profile.gif" width="100%" he/></a>
 
 <!-- Social icons section -->
 <h1 align="center"> Social Media: </h1>

@@ -1,130 +1,199 @@
 <!-- 
-GIF SECTION
-ur welcome ;) 
+  GIF SECTION
+  Tu peux changer ce GIF pour un autre, ou même retirer la section si tu le souhaites.
 -->
-<a href="https://tenor.com/search/welcome-to-my-profile-gifs"><img align="center" alt="GIF" src="./assets/welcome-to-my-profile.gif" width="100%" he/></a>
+<a href="https://tenor.com/search/welcome-to-my-profile-gifs">
+  <img align="center" alt="GIF de Bienvenue" src="./assets/welcome-to-my-profile.gif" width="100%" />
+</a>
 
 <!-- Social icons section -->
-<h1 align="center"> Social Media: </h1>
-  <p align="center">
-    <a href="https://twitter.com/BerrueA">
-      <img src="https://img.shields.io/badge/twitter-7cebf5?&style=for-the-badge&logo=twitter&logoColor=black">
-    </a>
-    <a href="https://stackoverflow.com/users/16915128/anthony-berru%c3%a9">
-      <img src="https://img.shields.io/badge/stack%20overflow-7cebf5?&style=for-the-badge&logo=stack%20overflow&logoColor=black">
-    </a>
-    <a href="#">
-      <img src="https://img.shields.io/badge/WebPage-7cebf5?&style=for-the-badge&logo=data:image/png;base64,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&logoColor=black">
-    </a>
-    <a href="https://www.linkedin.com/in/anthony-berru%C3%A9-873879169/">
-      <img src="https://img.shields.io/badge/linkedin-7cebf5?&style=for-the-badge&logo=linkedin&logoColor=black">
-    </a>
-    <a href="mailto:berrue.anthony@gmail.com">
-      <img src="https://img.shields.io/badge/SEND%20MAIL-7cebf5?&style=for-the-badge&logo=MAIL.RU&logoColor=black">
-    </a>
-  </p>
-</h1>
-
+<h1 align="center">Retrouvez-moi sur :</h1>
+<p align="center">
+  <a href="https://twitter.com/BerrueA">
+    <img src="https://img.shields.io/badge/Twitter-7cebf5?&style=for-the-badge&logo=twitter&logoColor=black" />
+  </a>
+  <a href="https://stackoverflow.com/users/16915128/anthony-berru%c3%a9">
+    <img src="https://img.shields.io/badge/Stack%20Overflow-7cebf5?&style=for-the-badge&logo=stack-overflow&logoColor=black" />
+  </a>
+  <!-- Si tu as un site web/portfolio, insère ici le lien -->
+  <a href="#">
+    <img src="https://img.shields.io/badge/Mon%20Site%20Web-7cebf5?&style=for-the-badge&logo=about-dot-me&logoColor=black" />
+  </a>
+  <a href="https://fr.linkedin.com/in/anthony-berru%C3%A9-873879169">
+    <img src="https://img.shields.io/badge/LinkedIn-7cebf5?&style=for-the-badge&logo=linkedin&logoColor=black" />
+  </a>
+  <a href="mailto:berrue.anthony@gmail.com">
+    <img src="https://img.shields.io/badge/M'envoyer%20un%20mail-7cebf5?&style=for-the-badge&logo=mail.ru&logoColor=black" />
+  </a>
+</p>
 <hr>
 
-<!-- Description about me -->
-<h2 align="center"> 🤔 About me 👨‍💻 </h2>
+<!-- About me section -->
+<h2 align="center">👨‍💻 Qui suis-je ?</h2>
 
-Eyyyy!!! <br />
-I am <b>Anthony Berrué</b>🕵🏼‍♂️ <br />
-I am from <strong>France</strong> the king of "baguette"☕☕ <br />
-I'm a guy who love learn new things 🖥️ <br />
-So... I am not a robot coding 🤖, I am a real human trying to learn new things and develop incredible projects with ❤️ meeting incredible people on the way🚀<br />
-If you are interested in a guy with a good vibe who loves the knowledge and the constant learning 📚, <b>⚙️I AM YOUR GUY⚙️</b> <br />
-Contact me for new projects 📨, <sup>I am open to collaborate with you</sup>
-<br/><br/> 
+<p align="center">
+  <strong>Salut tout le monde !</strong><br/>
+  Je m'appelle <b>Anthony Berrué</b>, développeur web originaire du sud-ouest de la France (la patrie de la baguette ! 🥖). <br/>
+  Actuellement en formation chez <strong>O'clock</strong>, je me spécialise en <strong>développement web Full Stack</strong> 
+  avec un fort focus sur <strong>JavaScript</strong>, <strong>Node.js</strong>, et <strong>React</strong>. <br/><br/>
+  J'aime découvrir de nouvelles technologies, relever des défis et créer des projets utiles et innovants. <br/>
+  <em>Si vous cherchez un collaborateur motivé, passionné et avide d'apprendre, contactez-moi sans hésiter&nbsp;!</em>
+</p>
 
-<!-- Bogota's weather table -->
+<br/>
 
-<h2 align="center"> fr Dax Weather ⛅ </h2>
+<!-- Weather section (Exemple) 
+     Tu peux remplacer tout ce bloc par un script qui récupère la météo en temps réel 
+     ou l'enlever si tu ne souhaites plus l'afficher. -->
+<h2 align="center">La météo à Dax, France ⛅</h2>
 <table align="center" style="width:50%">
-    <tr style="text-align:center">
-        <th>Weather</th>
-        <th>Temperature</th>
-        <th>Sunrise</th>
-        <th>Sunset</th>
-        <th>Humidity</th>
-    </tr>
-    <tr style="text-align:center">
-        <td><b>broken clouds</b><img width="15" src=http:&#x2F;&#x2F;openweathermap.org&#x2F;img&#x2F;w&#x2F;04n.png></td>
-        <td><b>6°C</b></td>
-        <td><b>14:47 AM</b></td>
-        <td><b>14:40 PM</b></td>
-        <td><b>100%</b></td>
-    </tr>
+  <tr style="text-align:center">
+    <th>Météo</th>
+    <th>Température</th>
+    <th>Lever du soleil</th>
+    <th>Coucher du soleil</th>
+    <th>Humidité</th>
+  </tr>
+  <tr style="text-align:center">
+    <td><b>broken clouds</b><img width="15" src="http://openweathermap.org/img/w/04n.png"></td>
+    <td><b>6°C</b></td>
+    <td><b>14:47</b></td>
+    <td><b>14:40</b></td>
+    <td><b>100%</b></td>
+  </tr>
 </table>
 
-<img align="right" alt="GIF" src="./assets/code.gif" width="290vw"/>
+<br />
 
-### 🧐 More About Me:
+<!-- GIF code, align right -->
+<img align="right" alt="GIF code" src="./assets/code.gif" width="290vw" />
 
-- 🔭 &nbsp; I’m currently studying at **O'clock**
-- 🤝 &nbsp; I’m looking to collaborate on Open Source Proyects
-- 🌱 &nbsp; I’m currently learning Javascript; 
-- 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/AnthonyBerrue?tab=repositories)
-- 💬 &nbsp; Do not hesitate to communicate with me, I will not eat you promised🐧);
-- 📫 &nbsp; Feel free to contact me on [LinkedIn](https://www.linkedin.com/in/anthony-berru%C3%A9-873879169/)
-- 🎷 &nbsp; When I am free, I like to play the Guitar(gyspy jazz)
-- 📝 &nbsp; Checkout my [Page](In progress) 
+### 🧐 Quelques infos supplémentaires :
+- 🔭 &nbsp;En formation chez <strong>O'clock</strong> pour renforcer mes compétences en **JavaScript** et **Node.js**.
+- 🌱 &nbsp;J’explore de plus en plus <strong>React</strong> et <strong>PostgreSQL</strong>.
+- 🤝 &nbsp;Ouvert à toute collaboration sur des projets open source ou professionnels.
+- 👨‍💻 &nbsp;Consultez mes dépôts sur [GitHub](https://github.com/AnthonyBerrue?tab=repositories).
+- 💬 &nbsp;J’adore partager autour du code et apprendre de nouvelles pratiques.
+- 🎸 &nbsp;Dans mes temps libres, je joue de la guitare (jazz manouche).
+- 📫 &nbsp;Rejoignez-moi sur [LinkedIn](https://fr.linkedin.com/in/anthony-berru%C3%A9-873879169) ou écrivez-moi un mail.
 
-<br><br><br>
+<br/><br/><br/>
 
-<!-- languajes and skills section -->
-
-<h1 align="center"> Languages/Frameworks I'm good at: </h1>
+<!-- Tools & Skills -->
+<h1 align="center">Langages et frameworks que je maîtrise :</h1>
 <p align="center">
-  <code><a href="https://github.com/features/actions"><img alt="GitHub Actions" title="GitHub Actions" src="./assets/actions.png" height="42"></a></code>
-  <code><a href="https://daringfireball.net/projects/markdown"><img alt="Markdown" title="Markdown" src="./assets/markdown.png" height="42"></a></code>
+  <code>
+    <a href="https://github.com/features/actions">
+      <img alt="GitHub Actions" title="GitHub Actions" src="./assets/actions.png" height="42" />
+    </a>
+  </code>
+  <code>
+    <a href="https://daringfireball.net/projects/markdown">
+      <img alt="Markdown" title="Markdown" src="./assets/markdown.png" height="42" />
+    </a>
+  </code>
 </p>
-<br>
+<br/>
 
-<h1 align="center"> Languages/Frameworks I'm learning: </h1>
+<h1 align="center">Langages et outils que j'apprends :</h1>
 <p align="center">
-  <code><a href="https://www.gnu.org/software/bash"><img alt="Bash" title="Bash" src="./assets/bash.png" height="42"></a></code>
-  <code><a href="https://www.w3.org/Style/CSS/Overview.en.html"><img alt="CSS 3" title="CSS 3" src="./assets/css.png" height="42"></a></code>
-  <code><a href="https://en.wikipedia.org/wiki/HTML"><img alt="HTML 5" title="HTML 5" src="./assets/html.png" height="42"></a></code>
-  <code><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img alt="JavaScript" title="JavaScript" src="./assets/js.png" height="42"></a></code>
-  <code><a href="https://fr.wikipedia.org/wiki/Node.js"><img alt="NodeJS" title="NodeJS" src="./assets/Node.js_logo.svg.png" height="42"></a></code>
-  <code><a href="https://fr.wikipedia.org/wiki/PostgreSQL"><img alt="PostgreSQL" title="PostgreSQL" src="./assets/Postgresql.svg.png" height="42"></a></code>
+  <code>
+    <a href="https://www.gnu.org/software/bash">
+      <img alt="Bash" title="Bash" src="./assets/bash.png" height="42" />
+    </a>
+  </code>
+  <code>
+    <a href="https://www.w3.org/Style/CSS/Overview.en.html">
+      <img alt="CSS 3" title="CSS 3" src="./assets/css.png" height="42" />
+    </a>
+  </code>
+  <code>
+    <a href="https://en.wikipedia.org/wiki/HTML">
+      <img alt="HTML 5" title="HTML 5" src="./assets/html.png" height="42" />
+    </a>
+  </code>
+  <code>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
+      <img alt="JavaScript" title="JavaScript" src="./assets/js.png" height="42" />
+    </a>
+  </code>
+  <code>
+    <a href="https://fr.wikipedia.org/wiki/Node.js">
+      <img alt="Node.js" title="Node.js" src="./assets/Node.js_logo.svg.png" height="42" />
+    </a>
+  </code>
+  <code>
+    <a href="https://fr.wikipedia.org/wiki/PostgreSQL">
+      <img alt="PostgreSQL" title="PostgreSQL" src="./assets/Postgresql.svg.png" height="42" />
+    </a>
+  </code>
 </p>
-<br>
+<br/>
 
-<h1 align="center"> Environments I work with: </h1>
+<h1 align="center">Mes environnements de travail :</h1>
 <p align="center">
-  <code><a href="https://www.frandroid.com/telecharger/apps/linux-deploy"><img alt="Linux" title="Linux" src="./assets/LinuxP.png" height="42"></a></code>
-  <code><a href="https://github.com/"><img alt="GitHub" title="GitHub" src="./assets/github.png" height="42"></a></code>
-  <code><a href="https://www.npmjs.com"><img alt="NPM" title="NPM" src="./assets/npm.png" height="42"></a></code>
-  <code><a href="https://code.visualstudio.com/"><img alt="Vs code" title="Vs code" src="./assets/vscode.png" height="42"></a></code>
-  <code><a href="https://21douze.fr/devenir-developpeur-web-lecole-oclock-vous-ouvre-ses-portes-virtuelles-110362.html"><img alt="O'clock" title="O'clock" src="./assets/O'clock.png" height="42"></a></code>
+  <code>
+    <a href="https://www.frandroid.com/telecharger/apps/linux-deploy">
+      <img alt="Linux" title="Linux" src="./assets/LinuxP.png" height="42" />
+    </a>
+  </code>
+  <code>
+    <a href="https://github.com/">
+      <img alt="GitHub" title="GitHub" src="./assets/github.png" height="42" />
+    </a>
+  </code>
+  <code>
+    <a href="https://www.npmjs.com">
+      <img alt="NPM" title="NPM" src="./assets/npm.png" height="42" />
+    </a>
+  </code>
+  <code>
+    <a href="https://code.visualstudio.com/">
+      <img alt="Visual Studio Code" title="Visual Studio Code" src="./assets/vscode.png" height="42" />
+    </a>
+  </code>
+  <code>
+    <a href="https://21douze.fr/devenir-developpeur-web-lecole-oclock-vous-ouvre-ses-portes-virtuelles-110362.html">
+      <img alt="O'clock" title="O'clock" src="./assets/O'clock.png" height="42" />
+    </a>
+  </code>
 </p>
-<br>
+<br/>
 
 <!-- GitHub stats section -->
-
-## 📊 Github stats
-
-<!-- Bassed on: https://github.com/anuraghazra/github-readme-stats -->
+<h2 align="center">📊 Mes statistiques GitHub</h2>
 <p align="center">
   <br/>
-    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="AnthonyBerrue Github Stats" src="https://github-readme-stats.vercel.app/api/?username=AnthonyBerrue&show_icons=true&count_private=true&theme=react&bg_color=1F222E&title_color=7cebf5&icon_color=2d7de4&show_icons=true&border_color=7cebf5&border_radius=10" height="192px"/></a>
-    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="AnthonyBerrue Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnthonyBerrue&langs_count=8&layout=compact&theme=react&bg_color=1F222E&title_color=7cebf5&icon_color=2d7de4&show_icons=true&border_color=7cebf5&border_radius=10" height="192px"/></a>
+  <!-- Stats -->
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img 
+      alt="AnthonyBerrue GitHub Stats" 
+      src="https://github-readme-stats.vercel.app/api?username=AnthonyBerrue&show_icons=true&count_private=true&theme=react&bg_color=1F222E&title_color=7cebf5&icon_color=2d7de4&border_color=7cebf5&border_radius=10" 
+      height="192px"
+    />
+  </a>
+  <!-- Top langs -->
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img 
+      alt="AnthonyBerrue Langages les plus utilisés" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnthonyBerrue&langs_count=8&layout=compact&theme=react&bg_color=1F222E&title_color=7cebf5&icon_color=2d7de4&border_color=7cebf5&border_radius=10" 
+      height="192px"
+    />
+  </a>
   <br/>
 </p>
 
-<!-- last activity section -->
-
-## Activity Graph
+<!-- Activity Graph -->
+<h2 align="center">Activité récente</h2>
 <p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=AnthonyBerrue&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
+  <img 
+    src="https://activity-graph.herokuapp.com/graph?username=AnthonyBerrue&theme=react-dark&bg_color=20232a&hide_border=true" 
+    width="100%"
+  />
 </p>
-
-<br>
 
 <!-- last refresh of readme section -->
-
-Last refresh: <b>Friday, November 27, 14:48 PM GMT-5</b>
+<br/>
+<p align="center">
+  Dernière mise à jour : <strong>11 avril 2025, 12:00 PM</strong>
+</p>

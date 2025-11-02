@@ -23,7 +23,6 @@ jobs:
 
       - name: Initialize CodeQL
         uses: github/codeql-action/init@v4
-        # Pas de "with: languages" → auto-détection JS/TS
 
       - name: Autobuild
         uses: github/codeql-action/autobuild@v4

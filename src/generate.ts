@@ -1,5 +1,3 @@
-// src/generate.ts
-// TypeScript; uses GitHub REST API and a tiny {{var}} templater (no deps)
 import { readFile, writeFile } from "node:fs/promises";
 
 type Repo = {
@@ -26,7 +24,7 @@ type Cfg = {
 };
 
 const rawCfg = await readFile("./config.json", "utf8");
-// assertion de type unique (sans double annotation)
+
 const CFG = JSON.parse(rawCfg) as Cfg;
 
 const GH = {
@@ -49,7 +47,6 @@ async function gh(path: string): Promise<unknown> {
 }
 
 async function listRepos(user: string): Promise<Repo[]> {
-  // Fetch up to ~300 repos via pagination
   let page = 1;
   const all: Repo[] = [];
   while (page < 10) {
@@ -92,7 +89,6 @@ function toText(v: unknown): string {
   }
 }
 
-// Simple {{path.to.key}} renderer
 function render(tpl: string, data: Record<string, unknown>): string {
   const re = /{{\s*([\w.]+)\s*}}/g;
   return tpl.replaceAll(re, (_: string, k: string) => {
@@ -104,7 +100,6 @@ function render(tpl: string, data: Record<string, unknown>): string {
 }
 
 function badge(label: string): string {
-  // expects strings like "Java 21-ED8B00?logo=openjdk&logoColor=white"
   const parts = label.split("?");
   const left = parts[0] ?? "";
   const query = parts[1] ? "?" + parts[1] : "";
@@ -129,36 +124,36 @@ async function main(): Promise<void> {
       ? repos.filter((r: Repo) => CFG.featured.includes(r.full_name))
       : byStars;
 
-  // language breakdown over top 20 active repos
   const forLang = topN(
     repos,
     20,
     (r: Repo) => r.stargazers_count + r.forks_count,
   );
   const langTotals: LanguageBreakdown = {};
+  
   for (const r of forLang) {
     const langs = await languagesForRepo(r.full_name);
-    // évite le cast : itère avec for..in
+    
     for (const k in langs) {
       const v = langs[k] ?? 0;
       langTotals[k] = (langTotals[k] ?? 0) + v;
     }
   }
+  
   const total = Object.values(langTotals).reduce(
     (a: number, b: number) => a + b,
     0,
   );
+  
   const topLangs = Object.entries(langTotals)
     .sort((a: [string, number], b: [string, number]) => b[1] - a[1])
     .slice(0, 6)
     .map(([k, v]) => ({ name: k, pct: percent(v, total) }));
 
-  // Pre-render HTML fragments for the template (no nested template literals)
   const stack_badges_html = CFG.stack_badges
     .map((s) => {
-      // Exemple d'entrée: "Java 21-ED8B00?logo=openjdk&logoColor=white"
-      const alt = s.split("?")[0];          // "Java 21-ED8B00"
-      const url = badge(s);                 // URL shields.io
+      const alt = s.split("?")[0];
+      const url = badge(s);         
       return `<img src="${url}" alt="${alt}" />`;
     })
     .join(" ");

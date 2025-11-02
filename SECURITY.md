@@ -5,7 +5,7 @@ Only the latest main branch is actively maintained for security.
 
 ## Reporting a Vulnerability
 - **Do not** open a public issue.
-- Email: `security@anthony.dev` (remplace par ton adresse) ou utilise les *Security Advisories* GitHub.
+- Email: `berrue.anthony@gmail.com` ou utilise les *Security Advisories* GitHub.
 - Donne un maximum de détails (version commit, POC, impact, CVSS si tu peux).
 
 ## Best Practices intégrées

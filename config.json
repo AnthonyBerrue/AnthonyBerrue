@@ -1,0 +1,22 @@
+{
+  "username": "AnthonyBerrue",
+  "name": "Anthony Berrué",
+  "location": "Dax, France",
+  "headline": "Concepteur Développeur d’Applications • Fullstack Java / Angular / Next.js",
+  "featured": [
+    "AnthonyBerrue/FindeyMusic",
+    "AnthonyBerrue/ChargeCapa",
+    "AnthonyBerrue/Poincons"
+  ],
+  "stack_badges": [
+    "Java 21-ED8B00?logo=openjdk&logoColor=white",
+    "Spring Boot 3-6DB33F?logo=springboot&logoColor=white",
+    "Angular 19-DD0031?logo=angular&logoColor=white",
+    "Next.js 16-000000?logo=next.js&logoColor=white",
+    "TypeScript-3178C6?logo=typescript&logoColor=white",
+    "GraphQL-E10098?logo=graphql&logoColor=white",
+    "PostgreSQL-4169E1?logo=postgresql&logoColor=white",
+    "Docker-2496ED?logo=docker&logoColor=white",
+    "Kubernetes-326CE5?logo=kubernetes&logoColor=white"
+  ]
+}

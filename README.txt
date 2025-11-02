@@ -1,0 +1,1 @@
+Place your hero GIF as 'welcome-to-my-profile.gif' here.

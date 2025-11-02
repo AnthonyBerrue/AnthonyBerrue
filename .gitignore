@@ -1,0 +1,31 @@
+# OS
+.DS_Store
+Thumbs.db
+
+# Editors
+.vscode/
+.idea/
+
+# Dependencies & builds
+node_modules/
+bun.lockb
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+dist/
+build/
+coverage/
+.out/
+.next/
+
+# Env & secrets
+.env
+.env.*
+*.local
+
+# Misc
+*.log
+*.tmp
+*.swp
+*.swo

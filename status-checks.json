@@ -1,0 +1,7 @@
+{
+  "strict": true,
+  "checks": [
+    { "context": "CodeQL" },
+    { "context": "Refresh Profile README" }
+  ]
+}

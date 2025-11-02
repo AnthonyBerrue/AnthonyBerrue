@@ -1,0 +1,21 @@
+{
+  "compilerOptions": {
+    "target": "ES2022",
+    "module": "ES2022",
+    "moduleResolution": "Bundler",
+    "lib": [
+      "ES2023",
+      "DOM"
+    ],
+    "strict": true,
+    "noImplicitAny": true,
+    "resolveJsonModule": true,
+    "types": [
+      "node"
+    ],
+    "forceConsistentCasingInFileNames": true
+  },
+  "include": [
+    "src/**/*.ts"
+  ]
+}

@@ -1,0 +1,23 @@
+name: Bug report
+description: Signaler un bug
+labels: ["bug"]
+body:
+  - type: textarea
+    id: expected
+    attributes:
+      label: Comportement attendu
+    validations:
+      required: true
+  - type: textarea
+    id: actual
+    attributes:
+      label: Comportement observé
+    validations:
+      required: true
+  - type: textarea
+    id: steps
+    attributes:
+      label: Étapes pour reproduire
+      description: Décrivez les étapes détaillées
+    validations:
+      required: true

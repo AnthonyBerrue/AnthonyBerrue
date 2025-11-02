@@ -1,8 +1,19 @@
 {
-  "dependencies": {
-    "dotenv": "^10.0.0",
-    "fs": "^0.0.1-security",
-    "mustache": "^4.2.0",
-    "node-fetch": "^3.1.0"
-  }
+  "name": "anthony-profile",
+  "version": "3.0.0",
+  "private": true,
+  "description": "Dynamic GitHub profile README generator (Bun + TS + GitHub API)",
+  "engines": {
+    "bun": ">=1.1.0"
+  },
+  "scripts": {
+    "generate": "bun run src/generate.ts",
+    "format": "bunx --bun @biomejs/biome format --write .",
+    "lint": "bunx --bun @biomejs/biome lint ."
+  },
+  "devDependencies": {
+    "@biomejs/biome": "^1.9.0",
+    "@types/node": "^22.9.0"
+  },
+  "type": "module"
 }

@@ -70,7 +70,7 @@
 ## 💬 Langages les plus utilisés (sur mes repos actifs)
 
 <table>
-  <tr><td><b>TypeScript</b><br/><sub>89%</sub></td><td><b>CSS</b><br/><sub>6%</sub></td><td><b>JavaScript</b><br/><sub>4%</sub></td></tr>
+  <tr><td><b>JavaScript</b><br/><sub>63%</sub></td><td><b>TypeScript</b><br/><sub>35%</sub></td><td><b>CSS</b><br/><sub>2%</sub></td></tr>
 </table>
 
 ---
@@ -98,7 +98,7 @@
 </p>
 
 <p align="center">
-  <sub>⏱️ Mise à jour automatique : <b>lundi 3 novembre à 13:19</b> (Europe/Paris)</sub>
+  <sub>⏱️ Mise à jour automatique : <b>lundi 3 novembre à 19:18</b> (Europe/Paris)</sub>
 </p>
 
 ---
@@ -112,5 +112,5 @@
 ---
 
 <p align="center">
-  <sub>© lundi 3 novembre à 13:19 — Anthony Berrué • Design épuré, accessible & maintenable.</sub>
+  <sub>© lundi 3 novembre à 19:18 — Anthony Berrué • Design épuré, accessible & maintenable.</sub>
 </p>

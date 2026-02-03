@@ -98,7 +98,7 @@
 </p>
 
 <p align="center">
-  <sub>⏱️ Mise à jour automatique : <b>mardi 3 février à 01:50</b> (Europe/Paris)</sub>
+  <sub>⏱️ Mise à jour automatique : <b>mardi 3 février à 07:28</b> (Europe/Paris)</sub>
 </p>
 
 ---
@@ -112,5 +112,5 @@
 ---
 
 <p align="center">
-  <sub>© mardi 3 février à 01:50 — Anthony Berrué • Design épuré, accessible & maintenable.</sub>
+  <sub>© mardi 3 février à 07:28 — Anthony Berrué • Design épuré, accessible & maintenable.</sub>
 </p>

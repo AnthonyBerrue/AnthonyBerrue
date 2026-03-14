@@ -98,7 +98,7 @@
 </p>
 
 <p align="center">
-  <sub>⏱️ Mise à jour automatique : <b>vendredi 13 mars à 19:22</b> (Europe/Paris)</sub>
+  <sub>⏱️ Mise à jour automatique : <b>samedi 14 mars à 01:47</b> (Europe/Paris)</sub>
 </p>
 
 ---
@@ -112,5 +112,5 @@
 ---
 
 <p align="center">
-  <sub>© vendredi 13 mars à 19:22 — Anthony Berrué • Design épuré, accessible & maintenable.</sub>
+  <sub>© samedi 14 mars à 01:47 — Anthony Berrué • Design épuré, accessible & maintenable.</sub>
 </p>

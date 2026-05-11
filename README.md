@@ -98,7 +98,7 @@
 </p>
 
 <p align="center">
-  <sub>⏱️ Mise à jour automatique : <b>lundi 11 mai à 09:31</b> (Europe/Paris)</sub>
+  <sub>⏱️ Mise à jour automatique : <b>lundi 11 mai à 15:17</b> (Europe/Paris)</sub>
 </p>
 
 ---
@@ -112,5 +112,5 @@
 ---
 
 <p align="center">
-  <sub>© lundi 11 mai à 09:31 — Anthony Berrué • Design épuré, accessible & maintenable.</sub>
+  <sub>© lundi 11 mai à 15:17 — Anthony Berrué • Design épuré, accessible & maintenable.</sub>
 </p>

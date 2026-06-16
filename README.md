@@ -98,7 +98,7 @@
 </p>
 
 <p align="center">
-  <sub>⏱️ Mise à jour automatique : <b>mardi 16 juin à 16:06</b> (Europe/Paris)</sub>
+  <sub>⏱️ Mise à jour automatique : <b>mardi 16 juin à 21:23</b> (Europe/Paris)</sub>
 </p>
 
 ---
@@ -112,5 +112,5 @@
 ---
 
 <p align="center">
-  <sub>© mardi 16 juin à 16:06 — Anthony Berrué • Design épuré, accessible & maintenable.</sub>
+  <sub>© mardi 16 juin à 21:23 — Anthony Berrué • Design épuré, accessible & maintenable.</sub>
 </p>
